@@ -1,0 +1,28 @@
+{
+  "name": "@karuta/sanguosha-desktop",
+  "version": "0.1.0",
+  "description": "Sanguosha Desktop",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashiro/sanguosha-desktop.git"
+  },
+  "keywords": [
+    "Sanguosha",
+    "Desktop"
+  ],
+  "author": "Kazuichi Takashiro",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/takashiro/sanguosha-desktop/issues"
+  },
+  "homepage": "https://github.com/takashiro/sanguosha-desktop#readme",
+  "devDependencies": {
+    "electron": "^6.0.4",
+    "eslint": "^6.2.1"
+  }
+}
