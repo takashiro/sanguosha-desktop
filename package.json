@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/takashiro/sanguosha-desktop#readme",
   "devDependencies": {
-    "electron": "^7.2.4",
+    "electron": "^11.5.0",
     "eslint": "^6.2.1"
   }
 }
